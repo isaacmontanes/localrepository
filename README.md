@@ -1,1 +1,3 @@
-Hello world!
+# Lab
+
+A simple CSS program.
